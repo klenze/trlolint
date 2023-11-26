@@ -1,0 +1,4 @@
+*.y
+__pycache__
+*.trlo
+*~
